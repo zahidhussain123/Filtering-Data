@@ -1,0 +1,23 @@
+input {
+  margin-left: 37%;
+  margin-top: 70px;
+  font-size: 30px;
+  text-align: center;
+  position: sticky;
+  top: 0;
+}
+
+.cardsData {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.card {
+  border: 1px solid;
+  padding: 5px;
+  width: 300px;
+  margin-left: 38%;
+  margin-top: 20px;
+  box-shadow: 5px 10px 8px #888888;
+}
